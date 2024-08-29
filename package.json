@@ -1,0 +1,23 @@
+{
+  "name": "ReplitReactjsProject",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.7",
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.8",
+    "@vitejs/plugin-react": "^2.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1",
+    "tailwindcss": "^3.0.18",
+    "vite": "^3.0.4"
+  }
+}
